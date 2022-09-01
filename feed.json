@@ -19,7 +19,7 @@
           
             "apache/incubator-mxnet",
           
-            "eclipse/deeplearning4j",
+            "deeplearning4j/deeplearning4j",
           
             "sdhnshu/Pytorch-Model-Zoo",
           
@@ -769,7 +769,9 @@
           
             "cerberusxdev/cerberus",
           
-            "ganelson/inform"
+            "ganelson/inform",
+          
+            "hexops/mach"
           
         ],
         "created_by": "leereilly",
@@ -1103,7 +1105,9 @@
           
             "replit/kaboom",
           
-            "straker/kontra"
+            "straker/kontra",
+          
+            "playcanvas/engine"
           
         ],
         "created_by": "leereilly",
@@ -2193,7 +2197,7 @@
           
             "jcplaboratory/rashell",
           
-            "Abdur-rahmaanJ/greenBerry",
+            "Abdur-rahmaanJ/greenberry",
           
             "Abdur-rahmaanJ/honeybot",
           
@@ -11760,6 +11764,29 @@
       },
     
       {
+        "topic_name": "inkscape",
+        "created_by": null,
+        "display_name": "Inkscape",
+        "github_url": null,
+        "logo": 
+          "https://github.com/topics/inkscape/inkscape.png",
+        
+        "released": "November 2, 2003",
+        "short_description": "Inkscape is an open-source vector graphics editor used to create vector images, primarily in the SVG format.",
+        "url": "/topics/inkscape/index.html",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Inkscape",
+        "related": [
+          
+            "svg"
+          
+        ],
+        "aliases": [
+          
+        ],
+        "content": "<p>Inkscape is a free and open source vector graphics editor for GNU/Linux, Windows and macOS. It offers a rich set of features and is widely used for both artistic and technical illustrations such as cartoons, clip art, logos, typography, diagramming and flowcharting. It uses vector graphics to allow for sharp printouts and renderings at unlimited resolution and is not bound to a fixed number of pixels like raster graphics. Inkscape uses the standardized SVG file format as its main format, which is supported by many other applications including web browsers.</p>\n"
+      },
+    
+      {
         "topic_name": "instagram",
         "created_by": "Kevin Systrom, Mike Krieger",
         "display_name": "Instagram",
@@ -17299,6 +17326,27 @@
           
         ],
         "content": "<p>Rocket is a web framework for Rust that makes it simple to write fast, secure web applications without sacrificing flexibility, usability, or type safety.</p>\n"
+      },
+    
+      {
+        "topic_name": "rocketseat",
+        "created_by": "Cleiton Souza, Diego Fernandes and Robson Marques",
+        "display_name": "Rocketseat",
+        "github_url": "https://github.com/rocketseat",
+        "logo": 
+          null,
+        
+        "released": 2017,
+        "short_description": "Rocketseat is a Brazilian coding platform that professionalizes people in programming.",
+        "url": "/topics/rocketseat/index.html",
+        "wikipedia_url": null,
+        "related": [
+          
+        ],
+        "aliases": [
+          
+        ],
+        "content": "<p>Rocketseat is a coding platform founded in Brazil in 2017. It focuses on professionalizes people independently from their knowledge on programming world. It’s famous by the vast amount and quality of it programs, bootcamps and events.</p>\n"
       },
     
       {
